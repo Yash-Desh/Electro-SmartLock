@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\8051_SmartLock.obj" 
+TO ".\Objects\Door Locking System" 
+PRINT(".\Listings\Door Locking System.m51")
