@@ -116,7 +116,7 @@ In future iterations of the "8051-based door locking system," we aim to implemen
 ## Contributors
 
 - [Yash Deshpande](https://github.com/yashLM705)
-- [pk](https://github.com/Aerophile-320)
+- [Pratik Kardile](https://github.com/Aerophile-320)
 
 ## Acknowledgements and Resources
 
