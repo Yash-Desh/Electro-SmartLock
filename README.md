@@ -49,7 +49,7 @@ duplication and providing a more flexible and adaptable approach to securing spa
 - 12V Battery
 
 ### Software
-- [Keil Software](https://www.keil.com/download/)
+- [Keil uVision 5](https://www.keil.com/download/)
 - [Proteus Software](https://drive.google.com/uc?id=1aQ-QefxwPn7Coc0X_xKwAKFt6r3PQLiD&export=download)
 - Video [link](https://www.youtube.com/watch?v=A2KrMkxZQmw) for Proteus
 
@@ -71,6 +71,8 @@ metal-oxide-semiconductor(CMOS) technology. These microcontrollers were named
 microcontroller which means the data bus is 8-bit. Therefore, it can process 8 bits at a
 time. It is used in a wide variety of embedded systems like robotics, remote controls, the
 automotive industry, telecom applications, power tools, etc.
+![8051](https://github.com/Yash-Desh/Electro-SmartLock/assets/84829056/96d7edfa-be73-4c70-8207-fd56b4cad5f7)
+
 Key Features:
 - 4 KB on-chip ROM (Program memory).
 - 128 bytes on-chip RAM (Data memory).
@@ -79,6 +81,7 @@ Key Features:
 - Four 8-bit input/output ports.
 
 ### Circuit Diagram
+![circuit diagram](https://github.com/Yash-Desh/Electro-SmartLock/assets/84829056/246366e1-4025-4216-9f7a-d2fd0555a5e4)
 
 
 ### Operation
@@ -112,4 +115,11 @@ In future iterations of the "8051-based door locking system," we aim to implemen
 
 ## Acknowledgements and Resources
 
-- 
+- Prof. Panchakshari Awaje, VJTI
+- [Keil uVision 5: A Step-by-Step Tutorial for Beginners](https://iies.in/blog/keil-uvision-5-a-step-by-step-tutorial-for-beginners/)
+- [8051 Programming Using Keil UVision IDE](https://www.instructables.com/8051-Programming-Using-Keil-UVision-IDE/)
+- [Proteus Simulation: Door Lock system using 8051](https://youtu.be/y4k4vlxtGcs?si=JNCQsvCgLSQgB3G3)
+- [Programming 8051 using Keil Software](https://www.tutorialspoint.com/programming-8051-using-keil-software)
+- [Password Based Door Lock System using 8051 Microcontroller](https://www.electronicshub.org/password-based-door-lock-system-using-8051-microcontroller/)
+- [Password-based-doorlock-system-in-8051-microprocessor](https://github.com/kmhmubin/Password-based-doorlock-system-in-8051-microprocessor?tab=readme-ov-file)
+- [Password Based Door Lock System Using 8051 Microcontroller](https://circuitdiagrams.in/password-based-door-lock-system/)
