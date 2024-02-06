@@ -85,6 +85,8 @@ Key Features:
 
 
 ### Operation
+![process](https://github.com/Yash-Desh/Electro-SmartLock/assets/84829056/96bf2fd8-877b-47b8-994c-1985e2057474)
+
 1. User will enter the password by using keypad which is interfaced with Port 1 of 8051 Microcontroller.
 2. LCD is interfaced with microcontroller on Port 2 by 8 data pins.
 3. Motor Driver IC L293D is used for controlling DC motors of 12V rating. It is interfaced with Port 3 of micro controller 8051.
@@ -94,8 +96,11 @@ Key Features:
 ### Working
 1. Password is set 1234 by using programming.
 2. If user entered correct password by means of keyboard then LCD will indicate correct and Motor will Rotate to open door.
-3. If a user entered an incorrect password then the LCD will display "Incorrect" and
-the motor will not rotate, eventually the door will not open.
+3. If a user entered an incorrect password then the LCD will display "Incorrect" and the motor will not rotate, eventually the door will not open.
+
+
+https://github.com/Yash-Desh/Electro-SmartLock/assets/84829056/e59043b6-b7f4-44b0-88d1-233e66c55e49
+
 
 
 ## Future work
